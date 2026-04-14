@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-cormorant: var(--font-cormorant);
+  --font-playfair: var(--font-playfair);
+  --font-great-vibes: var(--font-great-vibes);
+  --font-cinzel: var(--font-cinzel);
+  --font-cardo: var(--font-cardo);
+}
